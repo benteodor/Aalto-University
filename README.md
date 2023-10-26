@@ -1,3 +1,5 @@
+Course link: https://fitech101.aalto.fi/web-software-development
+
 # Walking skeleton
 
 This is a walking skeleton -- a starting point for working on the course
